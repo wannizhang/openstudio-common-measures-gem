@@ -1,0 +1,4 @@
+{
+  "seed_file": "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/PowerOutage/tests/retail_winter/test_output.osm",
+  "weather_file": "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/PowerOutage/tests/USA_CO_Golden-NREL.724666_TMY3.epw"
+}

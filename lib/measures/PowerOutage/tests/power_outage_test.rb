@@ -5,6 +5,7 @@ require 'openstudio/measure/ShowRunnerOutput'
 require 'minitest/autorun'
 require_relative '../measure.rb'
 require 'fileutils'
+require 'json'
 
 class PowerOutage_Test < Minitest::Test
 
@@ -18,7 +19,7 @@ class PowerOutage_Test < Minitest::Test
 
     # load the test model
     translator = OpenStudio::OSVersion::VersionTranslator.new
-    path = "#{File.dirname(__FILE__)}/example_model.osm"
+    path = "#{File.dirname(__FILE__)}/Full_Service_Restaurant_CA.osm"
     model = translator.loadModel(path)
     assert(!model.empty?)
     model = model.get
@@ -29,7 +30,11 @@ class PowerOutage_Test < Minitest::Test
 
     # create hash of argument values.
     # If the argument has a default that you want to use, you don't need it in the hash
-    args_hash = {}
+    args_hash = {
+      'otg_date' => 'August 15',
+      'otg_hr' => 14,
+      'otg_len' => 24
+    }
     #args_hash['space_name'] = 'New Space'
     # using defaults values from measure.rb for other arguments
 
@@ -55,7 +60,21 @@ class PowerOutage_Test < Minitest::Test
     assert(result.warnings.empty?)
 
     # save the model to test output directory
-    output_file_path = "#{File.dirname(__FILE__)}//output/test_output.osm"
+    output_file_path = "#{File.dirname(__FILE__)}/output_restaurant/test_output.osm"
     model.save(output_file_path, true)
+
+    # test run the modified model
+    osw = {}
+    # osw["weather_file"] = File.join(File.dirname(__FILE__ ), "CA_LOS-ANGELES-IAP_722950S_12.epw")
+    osw["seed_file"] = File.expand_path("output_restaurant/test_output.osm", File.dirname(__FILE__))
+    osw["weather_file"] = File.expand_path("USA_TX_Austin-Camp.Mabry.722544_TMY3.epw", File.dirname(__FILE__))
+    osw_path = "#{File.dirname(__FILE__)}/output_restaurant/test_output.osw"
+    File.open(osw_path, 'w') do |f|
+      f << JSON.pretty_generate(osw)
+    end
+    cli_path = OpenStudio.getOpenStudioCLI
+    cmd = "\"#{cli_path}\" run -w \"#{osw_path}\""
+    puts cmd
+    system(cmd)
   end
 end

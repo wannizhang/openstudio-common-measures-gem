@@ -1,0 +1,365 @@
+ExpandObjects Started.
+No expanded file generated.
+ExpandObjects Finished. Time:     0.267
+EnergyPlus Starting
+EnergyPlus, Version 25.1.0-1c11a3d85f, YMD=2025.08.20 18:13
+Initializing Response Factors
+Calculating CTFs for "DEER INSULATED STEEL FRAMED EXTERIOR WALL R-5.67"
+Calculating CTFs for "DEER UNCARPETED 4IN SLAB FLOOR"
+Calculating CTFs for "DEER WOOD FRAMED ROOF R-14.18"
+Calculating CTFs for "INTERIORFURNISHINGS 1"
+Calculating CTFs for "TYPICAL INTERIOR WALL"
+Calculating CTFs for "FOUNDATION F 126 PERIM 0 AREA 23976"
+Calculating CTFs for "FOUNDATION F 126 PERIM 0 AREA 62935"
+Calculating CTFs for "FOUNDATION F 126 PERIM 0 AREA 9604"
+Calculating CTFs for "FOUNDATION F 126 PERIM 0 AREA 9712"
+Calculating CTFs for "FOUNDATION F 126 PERIM 1931 AREA 8828"
+Calculating CTFs for "FOUNDATION F 126 PERIM 295 AREA 1347"
+Calculating CTFs for "FOUNDATION F 126 PERIM 298 AREA 1362"
+Calculating CTFs for "FOUNDATION F 126 PERIM 3259 AREA 14901"
+Calculating CTFs for "FOUNDATION F 126 PERIM 736 AREA 3363"
+Calculating CTFs for "FOUNDATION F 126 PERIM 914 AREA 209"
+Initializing Window Optical Properties
+Initializing Solar Calculations
+Allocate Solar Module Arrays
+Initializing Zone and Enclosure Report Variables
+Initializing Surface (Shading) Report Variables
+Computing Interior Solar Absorption Factors
+Determining Shadowing Combinations
+Computing Window Shade Absorption Factors
+Proceeding with Initializing Solar Calculations
+Initializing Surfaces
+Initializing Outdoor environment for Surfaces
+Setting up Surface Reporting Variables
+Initializing Temperature and Flux Histories
+Initializing Window Shading
+Computing Interior Absorption Factors
+Computing Interior Diffuse Solar Absorption Factors
+Initializing Solar Heat Gains
+Initializing Internal Heat Gains
+Initializing Interior Solar Distribution
+Initializing Interior Convection Coefficients
+Gathering Information for Predefined Reporting
+Completed Initializing Surface Heat Balance
+Calculate Outside Surface Heat Balance
+Calculate Inside Surface Heat Balance
+Calculate Air Heat Balance
+Initializing HVAC
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #1 CAMP PENDLETON MCAS ANN CLG .4% CONDNS DB=>MWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #2 CAMP PENDLETON MCAS ANN CLG .4% CONDNS WB=>MDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #3 CAMP PENDLETON MCAS ANN CLG 1% CONDNS DB=>MWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #4 CAMP PENDLETON MCAS ANN CLG 2% CONDNS DP=>MDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #5 CAMP PENDLETON MCAS ANN HTG 99% CONDNS DB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #6 CAMP PENDLETON MCAS ANN HTG 99.6% CONDNS DB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #7 CAMP PENDLETON MCAS ANN HTG WIND 99% CONDNS WS=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #8 CAMP PENDLETON MCAS APRIL .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #9 CAMP PENDLETON MCAS APRIL .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #10 CAMP PENDLETON MCAS AUGUST .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #11 CAMP PENDLETON MCAS AUGUST .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #12 CAMP PENDLETON MCAS DECEMBER .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #13 CAMP PENDLETON MCAS DECEMBER .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #14 CAMP PENDLETON MCAS FEBRUARY .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #15 CAMP PENDLETON MCAS FEBRUARY .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #16 CAMP PENDLETON MCAS JANUARY .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #17 CAMP PENDLETON MCAS JANUARY .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #18 CAMP PENDLETON MCAS JULY .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #19 CAMP PENDLETON MCAS JULY .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #20 CAMP PENDLETON MCAS JUNE .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #21 CAMP PENDLETON MCAS JUNE .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #22 CAMP PENDLETON MCAS MARCH .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #23 CAMP PENDLETON MCAS MARCH .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #24 CAMP PENDLETON MCAS MAY .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #25 CAMP PENDLETON MCAS MAY .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #26 CAMP PENDLETON MCAS NOVEMBER .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #27 CAMP PENDLETON MCAS NOVEMBER .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #28 CAMP PENDLETON MCAS OCTOBER .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #29 CAMP PENDLETON MCAS OCTOBER .4% CONDNS WB=>MCDB 1
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #30 CAMP PENDLETON MCAS SEPTEMBER .4% CONDNS DB=>MCWB 1
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #31 CAMP PENDLETON MCAS SEPTEMBER .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #1 CAMP PENDLETON MCAS ANN CLG .4% CONDNS DB=>MWB 1
+Calculating System sizing
+...for Sizing Period: #2 CAMP PENDLETON MCAS ANN CLG .4% CONDNS WB=>MDB 1
+Calculating System sizing
+...for Sizing Period: #3 CAMP PENDLETON MCAS ANN CLG 1% CONDNS DB=>MWB 1
+Calculating System sizing
+...for Sizing Period: #4 CAMP PENDLETON MCAS ANN CLG 2% CONDNS DP=>MDB 1
+Calculating System sizing
+...for Sizing Period: #5 CAMP PENDLETON MCAS ANN HTG 99% CONDNS DB 1
+Calculating System sizing
+...for Sizing Period: #6 CAMP PENDLETON MCAS ANN HTG 99.6% CONDNS DB 1
+Calculating System sizing
+...for Sizing Period: #7 CAMP PENDLETON MCAS ANN HTG WIND 99% CONDNS WS=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #8 CAMP PENDLETON MCAS APRIL .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #9 CAMP PENDLETON MCAS APRIL .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #10 CAMP PENDLETON MCAS AUGUST .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #11 CAMP PENDLETON MCAS AUGUST .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #12 CAMP PENDLETON MCAS DECEMBER .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #13 CAMP PENDLETON MCAS DECEMBER .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #14 CAMP PENDLETON MCAS FEBRUARY .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #15 CAMP PENDLETON MCAS FEBRUARY .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #16 CAMP PENDLETON MCAS JANUARY .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #17 CAMP PENDLETON MCAS JANUARY .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #18 CAMP PENDLETON MCAS JULY .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #19 CAMP PENDLETON MCAS JULY .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #20 CAMP PENDLETON MCAS JUNE .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #21 CAMP PENDLETON MCAS JUNE .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #22 CAMP PENDLETON MCAS MARCH .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #23 CAMP PENDLETON MCAS MARCH .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #24 CAMP PENDLETON MCAS MAY .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #25 CAMP PENDLETON MCAS MAY .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #26 CAMP PENDLETON MCAS NOVEMBER .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #27 CAMP PENDLETON MCAS NOVEMBER .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #28 CAMP PENDLETON MCAS OCTOBER .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #29 CAMP PENDLETON MCAS OCTOBER .4% CONDNS WB=>MCDB 1
+Calculating System sizing
+...for Sizing Period: #30 CAMP PENDLETON MCAS SEPTEMBER .4% CONDNS DB=>MCWB 1
+Calculating System sizing
+...for Sizing Period: #31 CAMP PENDLETON MCAS SEPTEMBER .4% CONDNS WB=>MCDB 1
+Adjusting Air System Sizing
+Adjusting Standard 62.1 Ventilation Sizing
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Warming up {7}
+Warming up {8}
+Warming up {9}
+Warming up {10}
+Starting Simulation at 01/01/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=01/21/2018
+Continuing Simulation at 01/21/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=02/10/2018
+Continuing Simulation at 02/10/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=03/02/2018
+Continuing Simulation at 03/02/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=03/22/2018
+Continuing Simulation at 03/22/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=04/11/2018
+Continuing Simulation at 04/11/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/01/2018
+Continuing Simulation at 05/01/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=05/21/2018
+Continuing Simulation at 05/21/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=06/10/2018
+Continuing Simulation at 06/10/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=06/30/2018
+Continuing Simulation at 06/30/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=07/20/2018
+Continuing Simulation at 07/20/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=08/09/2018
+Continuing Simulation at 08/09/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=08/29/2018
+Continuing Simulation at 08/29/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=09/18/2018
+Continuing Simulation at 09/18/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=10/08/2018
+Continuing Simulation at 10/08/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=10/28/2018
+Continuing Simulation at 10/28/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=11/17/2018
+Continuing Simulation at 11/17/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=12/07/2018
+Continuing Simulation at 12/07/2018 for RUN PERIOD 1
+Updating Shadowing Calculations, Start Date=12/27/2018
+Continuing Simulation at 12/27/2018 for RUN PERIOD 1
+Writing tabular output file results using HTML format.
+Computing Life Cycle Costs and Reporting
+Writing final SQL reports
+EnergyPlus Run Time=00hr 03min 32.42sec
+EnergyPlus Completed Successfully.

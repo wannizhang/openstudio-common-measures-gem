@@ -1,0 +1,1820 @@
+
+ Meters for 8,RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 129,RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 166,RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 203,RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 276,RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 313,RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 350,RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 423,RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 460,RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 497,RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 570,RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 607,RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 644,RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 681,RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 718,RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 755,RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 828,RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 853,RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 878,RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 927,RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 952,RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 977,RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 1026,RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 1051,RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 1076,RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 1101,RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 1126,RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J]
+
+ Meters for 1152,ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+
+ Meters for 1237,ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J]
+
+ Meters for 1287,ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+
+ Meters for 1324,ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J]
+
+ Meters for 1350,ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+
+ Meters for 1387,ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J]
+
+ Meters for 1413,ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+
+ Meters for 1450,ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J]
+
+ Meters for 1476,ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+
+ Meters for 1513,ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J]
+
+ Meters for 1539,ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+
+ Meters for 1576,ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J]
+
+ Meters for 1602,ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+
+ Meters for 1639,ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J]
+
+ Meters for 1665,ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+
+ Meters for 1702,ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J]
+
+ Meters for 1728,ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+
+ Meters for 1765,ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J]
+
+ Meters for 1791,ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+
+ Meters for 1828,ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J]
+
+ Meters for 1854,ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+
+ Meters for 1891,ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J]
+
+ Meters for 1917,ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+
+ Meters for 1954,ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J]
+
+ Meters for 1980,ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+
+ Meters for 2017,ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J]
+
+ Meters for 2043,ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+
+ Meters for 2080,ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J]
+
+ Meters for 2106,ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+
+ Meters for 2143,ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J]
+
+ Meters for 2168,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 2217,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 2266,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 2345,ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2370,ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2407,ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2408,ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2409,ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2410,ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2411,ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2412,ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2413,ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2414,ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2415,ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2416,ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2417,ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2418,ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2419,ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2420,ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2421,ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2422,ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2423,ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2424,ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2425,ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2426,ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2427,ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2428,ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2429,ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2430,ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2431,ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2432,ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2433,ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=Baseboard:EnergyTransfer [J]
+
+ Meters for 2434,ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 2435,BUILDING FACADES:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Building Facades:ExteriorLights:Electricity [J]
+
+ Meters for 2460,MAIN ENTRIES:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Main Entries:ExteriorLights:Electricity [J]
+
+ Meters for 2473,OTHER DOORS:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Other Doors:ExteriorLights:Electricity [J]
+
+ Meters for 2486,PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=Parking Areas and Drives:ExteriorLights:Electricity [J]
+
+ Meters for 2499,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2524,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2525,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  BUILDING FACADES:Exterior Lights Electricity Energy
+  MAIN ENTRIES:Exterior Lights Electricity Energy
+  OTHER DOORS:Exterior Lights Electricity Energy
+  PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, Group=SpaceType, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, Group=SpaceType, contents are:
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:SpaceType:RETAIL ENTRY - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL ENTRY A  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL ENTRY B  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL ENTRY C  - STORY GROUND RETAIL ENTRY LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, Group=SpaceType, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, Group=SpaceType, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=Electricity, Group=Zone, contents are:
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:SpaceType:RETAIL BACK_SPACE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  RETAIL BACK_SPACE A  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL BACK_SPACE C  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL BACK_SPACE B  - STORY GROUND RETAIL BACK_SPACE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:SpaceType:RETAIL POINT_OF_SALE - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  RETAIL POINT_OF_SALE A  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE B  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL POINT_OF_SALE C  - STORY GROUND RETAIL POINT_OF_SALE ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:SpaceType:RETAIL RETAIL - COMSTOCK DOE REF PRE-1980 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  RETAIL RETAIL A END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL A  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL B END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL B  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL C  - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  RETAIL RETAIL C END_A - STORY GROUND RETAIL RETAIL ELEC EQUIP:Electric Equipment Electricity Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL BACK_SPACE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL ENTRY A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL ENTRY B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL ENTRY C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL ENTRY C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL POINT_OF_SALE C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL A END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL A END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL B END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL B END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C  - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C  - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ZONE RETAIL RETAIL C END_A - STORY GROUND [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ZONE RETAIL RETAIL C END_A - STORY GROUND:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+
+ For Meter=Baseboard:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Baseboard, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Total Heating Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+
+ For Meter=General:Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  ZONE RETAIL BACK_SPACE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL BACK_SPACE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL ENTRY C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL POINT_OF_SALE C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL A END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL B END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C  - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+  ZONE RETAIL RETAIL C END_A - STORY GROUND ELECTRIC BASEBOARD:Baseboard Electricity Energy
+
+ For Meter=ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  BUILDING FACADES:Exterior Lights Electricity Energy
+  MAIN ENTRIES:Exterior Lights Electricity Energy
+  OTHER DOORS:Exterior Lights Electricity Energy
+  PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy
+
+ For Meter=Building Facades:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  BUILDING FACADES:Exterior Lights Electricity Energy
+
+ For Meter=Main Entries:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  MAIN ENTRIES:Exterior Lights Electricity Energy
+
+ For Meter=Other Doors:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  OTHER DOORS:Exterior Lights Electricity Energy
+
+ For Meter=Parking Areas and Drives:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  PARKING AREAS AND DRIVES:Exterior Lights Electricity Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

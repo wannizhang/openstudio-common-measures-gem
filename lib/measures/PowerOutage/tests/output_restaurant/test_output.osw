@@ -1,0 +1,4 @@
+{
+  "seed_file": "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/PowerOutage/tests/output_restaurant/test_output.osm",
+  "weather_file": "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/PowerOutage/tests/USA_TX_Austin-Camp.Mabry.722544_TMY3.epw"
+}

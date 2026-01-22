@@ -29,8 +29,8 @@ Dir[File.dirname(__FILE__) + '/resources/*.rb'].each { |file| require file }
 
 # load OpenStudio measure libraries from openstudio-extension gem
 require 'openstudio-extension'
-require 'openstudio/extension/core/os_lib_schedules'
-
+# require 'openstudio/extension/core/os_lib_schedules'
+require 'openstudio-standards'
 # start the measure
 class PowerOutage < OpenStudio::Measure::ModelMeasure
   # define the name that a user will see, this method may be deprecated as
@@ -55,7 +55,7 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
     arg = OpenStudio::Measure::OSArgument.makeStringArgument('otg_date', true)
     arg.setDisplayName('Outage Start Date')
     arg.setDescription('Date of the start of the outage.')
-    arg.setDefaultValue('January 1')
+    arg.setDefaultValue('June 15')
     args << arg
 
     # make a double argument for hour of outage start
@@ -63,7 +63,7 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
     arg.setDisplayName('Outage Start Hour')
     arg.setUnits('hours')
     arg.setDescription('Hour of the day when the outage starts.')
-    arg.setDefaultValue(0)
+    arg.setDefaultValue(14)
     args << arg
 
     # make a double argument for outage duration
@@ -71,7 +71,7 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
     arg.setDisplayName('Outage Duration')
     arg.setUnits('hours')
     arg.setDescription('Duration of the power outage in hours.')
-    arg.setDefaultValue(24)
+    arg.setDefaultValue(72)
     args << arg
 
     # make a double argument for natural ventilation ACH
@@ -87,6 +87,7 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
     arg.setDescription('Will be used when it is too cold inside with power outages')
     arg.setDefaultValue(false) # later change to true, false for no so doesn't alter osw's that don't have this argument
     args << arg
+
 
     return args
   end # end the arguments method
@@ -110,8 +111,21 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
       sch = people.activityLevelSchedule
       if sch.is_initialized
         people_schedules << sch.get
-      end      
+      end
+      sch = people.workEfficiencySchedule
+      if sch.is_initialized
+        people_schedules << sch.get
+      end
+      sch = people.clothingInsulationSchedule
+      if sch.is_initialized
+        people_schedules << sch.get
+      end
+      sch = people.airVelocitySchedule
+      if sch.is_initialized
+        people_schedules << sch.get
+      end
     end
+    # H
 
     # assign the user inputs to variables
     otg_date = runner.getStringArgumentValue('otg_date', user_arguments)
@@ -199,7 +213,7 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
 
       # don't leave infil alone but set to min value in year
       if infil_schs.include?(schedule_ruleset)
-        otg_val = OsLib_Schedules.getMinMaxAnnualProfileValue(model, schedule_ruleset)['max']
+        otg_val = ::Schedule.getMinMaxAnnualProfileValue(model, schedule_ruleset)['max']
       else
         otg_val = 0
       end
@@ -378,6 +392,26 @@ class PowerOutage < OpenStudio::Measure::ModelMeasure
       end
 
     end
+
+    # get people
+    people_defs = model.getPeopleDefinitions
+    # loop through people
+    people_defs.sort.each do |people_def|
+      next if people_def.instances.size <= 0
+      runner.registerInfo("Adding Pierce model to '#{people_def.name}' for SET output")
+      people_def.pushThermalComfortModelType('Pierce')
+    end
+    required_variables = [
+      'Site Outdoor Air Drybulb Temperature',
+      'Zone Heat Index',
+      'Zone Air Temperature',
+      'Zone Thermal Comfort Pierce Model Standard Effective Temperature'
+    ]
+    required_variables.each do |var_name|
+      output_variable = OpenStudio::Model::OutputVariable.new(var_name, model)
+      output_variable.setReportingFrequency('timestep')
+    end
+    runner.registerInfo("Added heat resilience metrics for outputs.")
 
     runner.registerFinalCondition("A power outage has been added, starting on #{otg_date} at hour #{otg_hr.to_i} and lasting for #{otg_len.to_i} hours.")
 
