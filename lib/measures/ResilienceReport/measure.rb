@@ -26,7 +26,11 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
 
   # human readable description of modeling approach
   def modeler_description
-    return 'This measure generates resilience report after the resilience simulation.'
+    return 'This is a reporting measure that generates resilience report after the resilience simulation.' +
+      'The measure takes the output SQL file of the model used in the workflow, calculates the resilience metrics for the specified time period of the extreme event, and ' +
+      'generates a report in HTML format, including charts visualizing the time-series resilience metrics, and summarized data tables.' +
+      'Another SQL file can be provided as a baseline to compare with the target model.' +
+      'For example, the measure can be used to generate report to compare a normal condition and the power outage condition.'
   end
 
   # define the arguments that the user will input
@@ -58,19 +62,19 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     args << outage_end_hour
 
     plot_start_date = OpenStudio::Ruleset::OSArgument.makeStringArgument('plot_start_date', true)
-    plot_start_date.setDisplayName('The start date for resilience reporting charts. This can be some hours or days before the extreme event to show the change.')
+    plot_start_date.setDisplayName('The beginning date for resilience reporting charts. This can be some hours or days before the start time of the extreme event to show the change.')
     plot_start_date.setDescription('In MM-DD format')
     plot_start_date.setDefaultValue('06-14')
     args << plot_start_date
 
     plot_start_hour = OpenStudio::Measure::OSArgument.makeStringArgument('plot_start_hour', true)
-    plot_start_hour.setDisplayName('The start time for resilience reporting charts.')
+    plot_start_hour.setDisplayName('The beginning time for resilience reporting charts.')
     plot_start_hour.setDescription('Use 24 hour format HH:MM')
     plot_start_hour.setDefaultValue('14:00')
     args << plot_start_hour
 
     plot_end_date = OpenStudio::Ruleset::OSArgument.makeStringArgument('plot_end_date', true)
-    plot_end_date.setDisplayName('The end date for resilience reporting charts. This can be some hours or days after the extreme event to show the change.')
+    plot_end_date.setDisplayName('The end date for resilience reporting charts. This can be some hours or days after the end time of the extreme event to show the change.')
     plot_end_date.setDescription('In MM-DD format')
     plot_end_date.setDefaultValue('06-19')
     args << plot_end_date
@@ -83,7 +87,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
 
 
     comparison_sql_path = OpenStudio::Measure::OSArgument.makePathArgument('comparison_sql_path', true, "", false)
-    comparison_sql_path.setDisplayName('Provide the sql file path if you need a case added for comparison in the resilience report. The sql file should contain all the variables required for the resilience report as well.')
+    comparison_sql_path.setDisplayName('Provide the SQL file path if you need a case added for comparison in the resilience report. The sql file should contain all the variables required for the resilience report as well.')
     comparison_sql_path.setDefaultValue('')
     args << comparison_sql_path
 
@@ -144,7 +148,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     # get the last model and sql file
     model = runner.lastOpenStudioModel
     if model.empty?
-      runner.registerError('Cannot find last model.')
+      runner.registerError('Cannot find the last OpenStudio model.')
       return false
     end
     model = model.get
@@ -161,27 +165,26 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     end
     puts args
 
-    comparison_sql_file = nil
-    if user_arguments['comparison_sql_path'].hasValue
-      comparison_sql_path = runner.getPathArgumentValue('comparison_sql_path', user_arguments)
-      unless File.exist?(comparison_sql_path.to_s)
-        runner.registerError('The provided baseline sql file was not found.')
-        return false
-      end
-      comparison_sql_file = OpenStudio::SqlFile.new(OpenStudio::Path.new(comparison_sql_path))
-    else
-      runner.registerInfo("Baseline sql file path is not provided, will not compare with baseline.")
-    end
-
-
     # load sql file
     target_sql_file = runner.lastEnergyPlusSqlFile
     if target_sql_file.empty?
-      runner.registerError('Cannot find last sql file.')
+      runner.registerError('Cannot find the last SQL file.')
       return false
     end
     target_sql_file = target_sql_file.get
     model.setSqlFile(target_sql_file)
+
+    comparison_sql_file = nil
+    if user_arguments['comparison_sql_path'].hasValue
+      comparison_sql_path = runner.getPathArgumentValue('comparison_sql_path', user_arguments)
+      unless File.exist?(comparison_sql_path.to_s)
+        runner.registerError('The provided comparison (baseline) SQL file was not found.')
+        return false
+      end
+      comparison_sql_file = OpenStudio::SqlFile.new(OpenStudio::Path.new(comparison_sql_path))
+    else
+      runner.registerInfo("Comparison (baseline) SQL file path is not provided. The report will not compare the baseline.")
+    end
 
     # # put data into the local variable 'output', all local variables are available for erb to use when configuring the input html file
     # output =  'Measure Name = ' << name << '<br>'
@@ -189,7 +192,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     # output << 'Floor Area = ' << model.getBuilding.floorArea.to_s << '<br>'
     # output << 'Net Site Energy = ' << target_sql_file.netSiteEnergy.to_s << ' (GJ)<br>'
 
-    # read in template
+    # read in HTML template
     html_in_path = "#{File.dirname(__FILE__)}/resources/report.html.erb"
     if File.exist?(html_in_path)
       html_in_path = html_in_path
@@ -204,11 +207,12 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     # get the weather file run period (as opposed to design day run period)
     ann_env_pd = nil
     target_sql_file.availableEnvPeriods.each do |env_pd|
-      runner.registerInfo("env_pd: #{env_pd}")
+      # runner.registerInfo("Environment period: #{env_pd}")
       env_type = target_sql_file.environmentType(env_pd)
       if env_type.is_initialized
         if env_type.get == OpenStudio::EnvironmentType.new('WeatherRunPeriod')
           ann_env_pd = env_pd
+          runner.registerInfo("Found weather file run period: #{env_pd}")
           break
         end
       end
@@ -217,10 +221,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     plot_variables = ['Zone Heat Index',
                       'Zone Air Temperature',
                       'Zone Thermal Comfort Pierce Model Standard Effective Temperature']
-    zone_names = []
-    target_zone_data = {}
-    compare_zone_data = {}
-    # Use the first frequency that applied to all outputs variables to plot
+    # Use the first report frequency ("Hourly","Zone Timestep" or "HVAC System Timestep") that applied to all outputs variables to plot
     available_report_frequencies = target_sql_file.availableReportingFrequencies(ann_env_pd)
     frequency_to_plot = nil
     available_report_frequencies.each do |frequency|
@@ -228,22 +229,26 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
       puts "SQL available variables for #{frequency}: #{available_variables}"
       if (plot_variables - available_variables).empty?
         frequency_to_plot = frequency
-        runner.registerInfo("Use #{frequency} frequency for resilience report.")
+        runner.registerInfo("Use #{frequency} frequency for resilience metrics in the report.")
         break
       end
     end
     if frequency_to_plot.nil?
-      runner.registerError("Couldn't find all variables in the output. These variables need to be output for the resilience report: #{plot_variables}")
+      runner.registerError("Couldn't find all required variables in the output. These variables need to be output for the resilience report: #{plot_variables}")
       return false
     end
 
+    target_zone_data = {}
+    compare_zone_data = {}
     # The output key name for the plot_variables are:
     # Zone Heat Index: thermal_zone_name
     # Zone Air Temperature: thermal_zone_name
     # SET:
-    # if the People object belongs to a Space: people_name
-    # if the People object belongs to a SpaceType: space_name people_name
-    set_output_key_map = {}
+    #   if the People object belongs to a Space: people_name
+    #   if the People object belongs to a SpaceType: space_name people_name
+
+    # Both Space and SpaceTypes can have People objects
+    set_output_key_map = {}  #{zone_name: people_object_name}
     model.getThermalZones.each do |zone|
       zone.spaces.each do |space|
         space.people.each do |space_people|
@@ -253,6 +258,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
       end
     end
 
+    # If the People object was not found for the Space, find it in the parent SpaceType object
     model.getSpaceTypes.each do |spc_type|
       spc_type.people.each do |space_type_people|
         spc_type.spaces.each do |space|
@@ -280,6 +286,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
       # available_keys = target_sql_file.availableKeyValues(ann_env_pd, frequency_to_plot, variable_name)
       set_output_key_map.each do |zone_name, set_key_name|
         # Get the variable for the zone from EnergyPlus sql output file
+        # For SET, the key name is the People object name, for temperature and heat index, the key name is zone name
         if variable_name == 'Zone Thermal Comfort Pierce Model Standard Effective Temperature'
           key_name = set_key_name
         else
@@ -294,7 +301,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
         runner.registerInfo("Found #{variable_name} timeseries for #{zone_name}.")
         datetimes = output_timeseries.get.dateTimes
         if timeseries_yr.nil?
-          # Get the actual year from the timeseries output
+          # Get the actual year from the timeseries output. This only needs to be done once
           timeseries_yr = datetimes[0].date.year
           begin
             # Get the milliseconds epoch (UNIX) time from the input arguments
@@ -367,7 +374,8 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     output_table_summaryreports ||= OpenStudio::Model::OutputTableSummaryReports.new(model)
     output_table_summaryreports.addSummaryReport('ThermalResilienceSummary')
 
-    table_names = ['Heat Index OccupiedHours', 'Heating SET Degree-Hours', 'Cooling SET Degree-Hours', 'Hours of Safety for Cold Events']
+    table_names = ['Heat Index OccupiedHours', 'Heating SET Degree-Hours', 'Cooling SET Degree-Hours',
+                   'Hours of Safety for Cold Events']
 
     eplustbl_path = "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/ResilienceReport/tests/output/test_many_zones/reports/eplustbl.html"
     tables_html = OsLib_HelperMethods.extract_table(eplustbl_path, table_names)
