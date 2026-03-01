@@ -175,7 +175,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     end
     target_sql_file = target_sql_file.get
     model.setSqlFile(target_sql_file)
-    target_sql_str = target_sql_file.to_s
+    target_sql_str = target_sql_file.path.to_s
 
     comparison_sql_file = nil
     if user_arguments['comparison_sql_path'].hasValue
@@ -373,8 +373,8 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
       compare_site_energy = comparison_sql_file.totalSiteEnergy.get.round(0)
       compare_source_energy = comparison_sql_file.totalSourceEnergy.get.round(0)
     else
-      compare_site_energy = "NA"
-      compare_source_energy = "NA"
+      compare_site_energy = 0
+      compare_source_energy = 0
     end
 
     target_source_energy = target_sql_file.totalSourceEnergy.get.round(0)
@@ -392,12 +392,14 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
                    'Hours of Safety for Cold Events']
 
     # eplustbl_path = "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/ResilienceReport/tests/output/test_many_zones/reports/eplustbl.html"
-    target_eplustbl_path = target_sql_str.gsub('eplusout.sql', '.eplustbl.html')
+    target_eplustbl_path = target_sql_str.gsub('eplusout.sql', 'eplustbl.htm')
+    puts "target_eplustbl_path: #{target_eplustbl_path}"
+    puts "target_sql_str: #{target_sql_str}"
     target_tables_html = OsLib_HelperMethods.extract_table(target_eplustbl_path, table_names)
     # If the comparison case is provided,
     # merge the same tables for the target case and the comparison case to compare metrics side by side
     # Otherwise, just show target case tables as they are
-    if comparison_sql_file.nil?
+    unless comparison_sql_file.nil?
       base_eplustbl_path = comparison_sql_path.gsub('eplusout.sql', '.eplustbl.html')
       base_tables_html = OsLib_HelperMethods.extract_table(base_eplustbl_path, table_names)
       # Parse tables
