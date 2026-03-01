@@ -89,7 +89,7 @@
     'Zone Thermal Comfort Pierce Model Standard Effective Temperature' => generate_mock_boxplot_data_with_datetime(start_time, hours)
   }
 
-  tables_html = []
+  target_tables_html = []
 
   # Energy comparison data
   energy_comparison = [

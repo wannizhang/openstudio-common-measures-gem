@@ -422,18 +422,16 @@ module OsLib_HelperMethods
   end
 
   def self.extract_table(filepath, table_names)
-    # 读取文件内容
     html_content = File.read(filepath)
 
     table_regex = table_names.map do |name|
       /(<b>\s*#{Regexp.escape(name)}\s*<\/b>).*?(<table.*?>.*?<\/table>)/im
     end
 
-    # 提取表格和标题的对应关系
     tables = []
     table_regex.each do |regex|
       html_content.scan(regex) do |match|
-        tables << { name: match[0], content: match[1] } # 将标题和表格内容打包存储
+        tables << { name: match[0], content: match[1] }
       end
     end
 

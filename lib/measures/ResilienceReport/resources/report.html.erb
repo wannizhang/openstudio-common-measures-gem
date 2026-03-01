@@ -148,8 +148,8 @@
     </div>
     <div class="card-body collapse show" id="metricTables">
       <div class="table-responsive">
-        <% if tables_html.any? %>
-          <% tables_html.each do |table| %>
+        <% if target_tables_html.any? %>
+          <% target_tables_html.each do |table| %>
             <h5 class="mt-4"><%= table[:name].gsub(/<.?b>/, '') %></h5>
             <%= table[:content] %>
           <% end %>
@@ -401,7 +401,13 @@
       xDateFormat: '%Y-%m-%d %H:%M', // Tooltip datetime format
       shared: true // Share tooltip across all data points
     },
-    legend: { layout: 'horizontal', align: 'center', verticalAlign: 'bottom' },
+    legend: {
+      layout: 'horizontal', align: 'center', verticalAlign: 'bottom',
+      maxHeight: calculateChartHeight()*0.2,
+      navigation: {
+        enabled: true
+      }
+    },
     series: getSeriesData('Zone Air Temperature'),
     exporting: {
       enabled: true,
@@ -455,7 +461,13 @@
       xDateFormat: '%Y-%m-%d %H:%M', // Tooltip datetime format
       shared: true // Share tooltip across all data points
     },
-    legend: { layout: 'horizontal', align: 'center', verticalAlign: 'bottom' },
+    legend: {
+      layout: 'horizontal', align: 'center', verticalAlign: 'bottom',
+      maxHeight: calculateChartHeight()*0.2,
+      navigation: {
+        enabled: true
+      }
+    },
     series: getSeriesData('Zone Heat Index'),
     exporting: {
       enabled: true,
@@ -491,7 +503,13 @@
       xDateFormat: '%Y-%m-%d %H:%M', // Tooltip datetime format
       shared: true // Share tooltip across all data points
     },
-    legend: { layout: 'horizontal', align: 'center', verticalAlign: 'bottom' },
+    legend: {
+      layout: 'horizontal', align: 'center', verticalAlign: 'bottom',
+      maxHeight: calculateChartHeight()*0.2,
+      navigation: {
+        enabled: true
+      }
+    },
     series: getSeriesData('Zone Thermal Comfort Pierce Model Standard Effective Temperature'),
     exporting: {
       enabled: true,

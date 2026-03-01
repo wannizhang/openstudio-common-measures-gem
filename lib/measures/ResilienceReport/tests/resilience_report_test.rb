@@ -146,7 +146,7 @@ class ResilienceReportTest < Minitest::Test
     args_hash['plot_end_date'] = '08-16'
     args_hash['plot_start_hour'] = '08:00'
     args_hash['plot_end_hour'] = '20:00'
-    args_hash['comparison_sql_path'] = '/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/PowerOutage/tests/retail_summer/run/eplusout.sql'
+    # args_hash['comparison_sql_path'] = '/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/PowerOutage/tests/retail_summer/run/eplusout.sql'
 
     # populate argument with specified hash value if specified
     arguments.each do |arg|

@@ -8,6 +8,8 @@ require 'json'
 require 'date'
 require 'time'
 require 'set'
+require 'rexml/document'
+
 # require "#{File.dirname(__FILE__)}/resources/os_lib_reporting"
 require "#{File.dirname(__FILE__)}/resources/os_lib_helper_methods"
 
@@ -173,6 +175,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     end
     target_sql_file = target_sql_file.get
     model.setSqlFile(target_sql_file)
+    target_sql_str = target_sql_file.to_s
 
     comparison_sql_file = nil
     if user_arguments['comparison_sql_path'].hasValue
@@ -333,6 +336,7 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
         if comparison_file_provided
           compare_output_timeseries = comparison_sql_file.timeSeries(ann_env_pd, frequency_to_plot, variable_name, key_name)
           if compare_output_timeseries.empty?
+            puts "Comparison #{variable_name} timeseries for #{zone_name} not found."
             runner.registerWarning("Comparison #{variable_name} timeseries for #{zone_name} not found.")
           else
             runner.registerInfo("Found comparison #{variable_name} timeseries for #{zone_name}.")
@@ -342,7 +346,10 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
             compare_formatted_data = compare_plot_timestamp.zip(compare_timeseries_values).select do |datetime, value|
               datetime >= plot_start_time && datetime <= plot_end_time
             end
+            puts "Compare zone data"
+            puts compare_formatted_data
             compare_zone_data[variable_name][zone_name] = compare_formatted_data
+
           end
         end
       end
@@ -362,9 +369,16 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
       boxplot_data_comparison = {}
     end
     target_site_energy = target_sql_file.totalSiteEnergy.get.round(0)
-    compare_site_energy = comparison_sql_file.totalSiteEnergy.get.round(0)
+    if comparison_file_provided
+      compare_site_energy = comparison_sql_file.totalSiteEnergy.get.round(0)
+      compare_source_energy = comparison_sql_file.totalSourceEnergy.get.round(0)
+    else
+      compare_site_energy = "NA"
+      compare_source_energy = "NA"
+    end
+
     target_source_energy = target_sql_file.totalSourceEnergy.get.round(0)
-    compare_source_energy = comparison_sql_file.totalSourceEnergy.get.round(0)
+
     energy_comparison = [
       ['Annual site energy (GJ)', target_site_energy, compare_site_energy],
       ['Annual source energy (GJ)', target_source_energy, compare_source_energy]
@@ -377,8 +391,70 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
     table_names = ['Heat Index OccupiedHours', 'Heating SET Degree-Hours', 'Cooling SET Degree-Hours',
                    'Hours of Safety for Cold Events']
 
-    eplustbl_path = "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/ResilienceReport/tests/output/test_many_zones/reports/eplustbl.html"
-    tables_html = OsLib_HelperMethods.extract_table(eplustbl_path, table_names)
+    # eplustbl_path = "/Users/wannizhang/Documents/OpenStudioFY25/openstudio-common-measures-gem/lib/measures/ResilienceReport/tests/output/test_many_zones/reports/eplustbl.html"
+    target_eplustbl_path = target_sql_str.gsub('eplusout.sql', '.eplustbl.html')
+    target_tables_html = OsLib_HelperMethods.extract_table(target_eplustbl_path, table_names)
+    # If the comparison case is provided,
+    # merge the same tables for the target case and the comparison case to compare metrics side by side
+    # Otherwise, just show target case tables as they are
+    if comparison_sql_file.nil?
+      base_eplustbl_path = comparison_sql_path.gsub('eplusout.sql', '.eplustbl.html')
+      base_tables_html = OsLib_HelperMethods.extract_table(base_eplustbl_path, table_names)
+      # Parse tables
+      target_doc = REXML::Document.new(target_tables_html)
+      base_doc = REXML::Document.new(base_tables_html)
+
+      # Extract table headers
+      target_headers = []
+      target_doc.elements.each('table/thead/tr/th') { |th| target_headers << th.text.strip }
+      base_headers = []
+      base_doc.elements.each('table/thead/tr/th') { |th| base_headers << th.text.strip }
+
+      # Extract table bodies
+      target_rows = []
+      target_doc.elements.each('table/tbody/tr') do |row|
+        values = []
+        row.elements.each('td') { |td| values << td.text.strip }
+        target_rows << values
+      end
+
+      base_rows = []
+      base_doc.elements.each('table/tbody/tr') do |row|
+        values = []
+        row.elements.each('td') { |td| values << td.text.strip }
+        base_rows << values
+      end
+
+      shared_headers = target_headers & base_headers
+
+      # Generate new table html
+      merged_table_html = '<table class="table table-bordered"><thead><tr>'
+
+      # Primary headers，each header occupies two columns
+      shared_headers.each do |header|
+        merged_table_html += "<th colspan='2'>#{header}</th>"
+      end
+      merged_table_html += '</tr><tr>'
+
+      # Secondary headers for Target and Base
+      shared_headers.each do
+        merged_table_html += '<th>Target</th><th>Base</th>'
+      end
+      merged_table_html += '</tr></thead><tbody>'
+      # Merge table values
+      [target_rows.size, base_rows.size].max.times do |i|
+        merged_table_html += '<tr>'
+        shared_headers.each_with_index do |header, header_index|
+          target_value = target_rows[i] ? target_rows[i][header_index] || '' : ''
+          base_value = base_rows[i] ? base_rows[i][header_index] || '' : ''
+          merged_table_html += "<td>#{target_value}</td><td>#{base_value}</td>"
+        end
+        merged_table_html += '</tr>'
+      end
+
+      merged_table_html += '</tbody></table>'
+    end
+
 
     # configure template with variable values
     renderer = ERB.new(html_in)
@@ -399,9 +475,6 @@ class ResilienceReport < OpenStudio::Measure::ReportingMeasure
 
     # close the sql file
     target_sql_file.close
-
-
-
 
     return true
   end
